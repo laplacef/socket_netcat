@@ -1,0 +1,6 @@
+# Python DLL
+*.dll
+__pycache__/
+
+# Python environment
+.env
